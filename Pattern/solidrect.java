@@ -1,7 +1,7 @@
 import java.util.*;
 public class solidrect { 
     public static void main(String[] args) {
-        /
+        
         //Outer loop
         for (int i = 0; i < 4; i++) {
             //Inner loop
