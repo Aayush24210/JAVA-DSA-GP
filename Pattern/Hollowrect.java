@@ -18,3 +18,8 @@ public class Hollowrect{
     }
     }
 //2
+
+// *****
+// *   *
+// *   *
+// *****
